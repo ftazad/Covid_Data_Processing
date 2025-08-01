@@ -7,5 +7,5 @@ The Scripts directory has all the scripts with step by step pre-processing that 
 Intermediate datasets:
 The directory contains all the intermediate datasets that was used to generate the complete dataset in the last step.
 
-Dataset:
+Datasets:
 The dataset including the significant intermediate datasets are uploaded under this directory.
